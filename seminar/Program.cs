@@ -20,12 +20,11 @@
 // System.Console.WriteLine("Введите число");
 // int n = Convert.ToInt32(Console.ReadLine());
 
-// if (n ,0)
+// if (n < 0)
 // {
 //   n= n*-1;
 // }
-// else
-// {
+// 
 //    for (int index = -n; index<=n; index++)
 //    {
 //     System.Console.Write(index + " ");
