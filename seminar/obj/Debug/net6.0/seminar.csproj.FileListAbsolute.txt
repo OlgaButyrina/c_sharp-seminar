@@ -1,0 +1,15 @@
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\bin\Debug\net6.0\seminar.exe
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\bin\Debug\net6.0\seminar.deps.json
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\bin\Debug\net6.0\seminar.runtimeconfig.json
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\bin\Debug\net6.0\seminar.dll
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\bin\Debug\net6.0\seminar.pdb
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\obj\Debug\net6.0\seminar.csproj.AssemblyReference.cache
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\obj\Debug\net6.0\seminar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\obj\Debug\net6.0\seminar.AssemblyInfoInputs.cache
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\obj\Debug\net6.0\seminar.AssemblyInfo.cs
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\obj\Debug\net6.0\seminar.csproj.CoreCompileInputs.cache
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\obj\Debug\net6.0\seminar.dll
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\obj\Debug\net6.0\refint\seminar.dll
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\obj\Debug\net6.0\seminar.pdb
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\obj\Debug\net6.0\seminar.genruntimeconfig.cache
+D:\Ольга\учеба ИТ\c#\DZ1\seminar\obj\Debug\net6.0\ref\seminar.dll
